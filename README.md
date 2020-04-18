@@ -1,0 +1,2 @@
+# KGISL-Smart-Attendance-System
+Project is based on automated attendance system by facial recognition, used OpenCV in python environment. This system will enter the Roll number, Name and finally it will capture the image. It will capture 40 to 50 possible frames. Next the model will be trained and the attendance is directly update in the spreadsheet. Atlast, by clicking the attendance button, the camera will turn on and a pop-up appears with the Roll number and Name, finally it mark attendance automatically. 
